@@ -1,0 +1,2 @@
+attack speed: 11
+hp:100
